@@ -14,7 +14,7 @@ __ANBEOP HIGH SCHOOL__
 ## 2. WORK EXPERIENCE
 __2020 SUMMER UNDERGRADUATE INTERNSHIP in SNUCNS__ 2020.06~2020.08
 - Massive Black Hole Lab. (prof.Jong-Hak Woo)
-- (scientific) Broad H-alpha Analysis in SNU AGN Monitoring Project(SAMP)
+- (scientific) Broad H-alpha Analysis in SNU AGN Monitoring Project 
 - report [pdf](https://github.com/dddonghwa/Broad-Halpha-Analysis/blob/main/20%ED%95%98%EA%B3%84%20%ED%95%99%EB%B6%80%EC%83%9D%20%EC%97%B0%EA%B5%AC%20%EC%9D%B8%ED%84%B4%EC%8B%AD%20%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C%20%EA%B9%80%EB%8F%99%ED%99%94.pdf) 
 
 
