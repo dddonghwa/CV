@@ -29,6 +29,10 @@ __CORONA VISUALIZATION 📊__ 2021.06
 - *Tools : selenium, bs4, pandas, matplotlib*
 - github [link](https://github.com/likelion-aischool-10-teamproject/corona-visualization)
 
+__(scientific) SUPERMASSIVE BLACKHOLE MONIORING PROJECT 🌠__ 2021
+- Photometry & Polarimetry 
+- github link / presentation [pdf](https://github.com/dddonghwa/Astronomical-Observation-and-Lab/blob/master/AGN%20monitoring.pdf)
+
 cf. __ANALYSIS of APPLE GAM-SUNG 📱__ 2021.06 ~ ing
 - Changes of Apple GAM-SUNG from Reviews of IPhone Series
 - *Tools : wordcloud, konlpy*
