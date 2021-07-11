@@ -1,5 +1,5 @@
 # DONGHWA KIM
-📱 (+82)010-6554-3904 / 📧 donghwa1212@gmail.com / 😈 [GitHub](https://github.com/dddonghwa) / 📝 [BLOG](https://donghajoha.tistory.com/)
+📱 (+82)010-6554-3904 / 📨 donghwa1212@gmail.com / 😈 [GitHub](https://github.com/dddonghwa) / 📝 [BLOG](https://donghajoha.tistory.com/)
 
 ## 1. EDUATION
 
