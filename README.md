@@ -19,26 +19,27 @@ __2020 SUMMER UNDERGRADUATE INTERNSHIP in SNUCNS__ 2020.06~2020.08
 
 
 ## 3. PROJECT
-__CORONA VISUALIZATION 📊__ 2021.06
-- Fatal and Recovery Rate of COVID 19 by Continents 
-- *Tools : selenium, bs4, pandas, matplotlib*
-- github [link](https://github.com/likelion-aischool-10-teamproject/corona-visualization)
 
 __BURGER INDEX 🍔__ 2021.07
 - Does the Burger Index Actually Represents the Development of a City?
 - *Tools : selenium, bs4, requests, pandas, matplotlib, seaborn, plotly*
 - github [link](https://github.com/likelion-aischool-10-teamproject/burger-index)
 
-__ANALYSIS of APPLE GAM-SUNG 📱__ 2021.06 ~ ing
+__CORONA VISUALIZATION 📊__ 2021.06
+- Fatal and Recovery Rate of COVID 19 by Continents 
+- *Tools : selenium, bs4, pandas, matplotlib*
+- github [link](https://github.com/likelion-aischool-10-teamproject/corona-visualization)
+
+cf. __ANALYSIS of APPLE GAM-SUNG 📱__ 2021.06 ~ ing
 - Changes of Apple GAM-SUNG from Reviews of IPhone Series
 - *Tools : wordcloud, konlpy*
 - github [link](https://github.com/dddonghwa/my-Side-Project)
 
+
 ## 4. OTHER ACTIVITIES
-- Team Leader of Group 1 in LIKELIKON AI SCHOOL 2021.06~2021.07
 - Head Mentor of 2019 SNUSENS Winter Mentoring Camp 2018.09 ~ 2019.02
 - Won the 3rd prize in Pingpong Competition for University Students 2018.05
 
 
 ## 5. ONLINE COURSES
-__2021 K-DIGITAL TRAINING LIKELION 10th AI SCHOOL __ 2021.05 ~ 2021.08 Expected   
+__2021 K-DIGITAL TRAINING LIKELION 10th AI SCHOOL__ 2021.05 ~ 2021.08 Expected   
