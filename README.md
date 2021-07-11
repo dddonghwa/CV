@@ -19,11 +19,6 @@ __2020 SUMMER UNDERGRADUATE INTERNSHIP in SNUCNS__ 2020.06~2020.08
 
 ## 3. PROJECT
 
- __ANALYSIS of APPLE GAM-SUNG 📱__ 2021.06 ~ ing
-- Changes of Apple GAM-SUNG from Reviews of IPhone Series
-- *Tools : wordcloud, konlpy*
-- github [link](https://github.com/dddonghwa/my-Side-Project)
-
 __BURGER INDEX 🍔__ 2021.07
 - Does the Burger Index Actually Represents the Development of a City?
 - *Tools : selenium, bs4, requests, pandas, matplotlib, seaborn, plotly*
