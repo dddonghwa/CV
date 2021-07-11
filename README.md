@@ -35,8 +35,8 @@ __ANALYSIS of APPLE GAM-SUNG 📱__ 2021.06 ~ ing
 - github [link](https://github.com/dddonghwa/my-Side-Project)
 
 ## 4. OTHER ACTIVITIES
-- a Team Leader of Group 1 in LIKELIKON AI SCHOOL 2021.06~2021.07
-- a Head Mentor of 2019 SNUSENS Winter Mentoring Camp 2018.09 ~ 2019.02
+- Team Leader of Group 1 in LIKELIKON AI SCHOOL 2021.06~2021.07
+- Head Mentor of 2019 SNUSENS Winter Mentoring Camp 2018.09 ~ 2019.02
 - Won the 3rd prize in Pingpong Competition for University Students 2018.05
 
 
