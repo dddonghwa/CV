@@ -1,8 +1,5 @@
 # DONGHWA KIM
-- PHONE : (+82)010-6554-3904
-- EMAIL : donghwa1212@gmail.com
-- GITHUB : https://github.com/dddonghwa
-- BLOG : https://donghajoha.tistory.com/
+📱 (+82)010-6554-3904 / 📧 donghwa1212@gmail.com / 😈 [GitHub](https://github.com/dddonghwa) / 📝 [BLOG](https://donghajoha.tistory.com/)
 
 ## 1. EDUATION
 
@@ -19,27 +16,32 @@
 - 2020.06~2020.08
 - Massive Black Hole Lab. (prof.Jong-Hak Woo)
 - Broad Halpha Analysis in SNU AGN Monitoring Project(SAMP)
+- github link
 
 
 ## 3. PROJECT
-### CORONA VISUALIZATION
-- 2021.06 
+__CORONA VISUALIZATION 📊__ 2021.06
 - Fatal and Recovery Rate of COVID 19 by Continents 
 - *Tools : selenium, bs4, pandas, matplotlib*
 - github [link](https://github.com/likelion-aischool-10-teamproject/corona-visualization)
 
-### BURGER INDEX 
-- 2021.07
+__BURGER INDEX 🍔__ 2021.07
 - Does the Burger Index Actually Represents the Development of a City?
-- *Tools : selenium, bs4, requests, pandas, matplotlib, seaborn, plotly *
+- *Tools : selenium, bs4, requests, pandas, matplotlib, seaborn, plotly*
 - github [link](https://github.com/likelion-aischool-10-teamproject/burger-index)
 
-### ANALYSIS of APPLE GAM-SUNG
-- 2021.06 ~ ing
+__ANALYSIS of APPLE GAM-SUNG 📱__ 2021.06 ~ ing
 - Changes of Apple GAM-SUNG from Reviews of IPhone Series
 - *Tools : wordcloud, konlpy*
-- github 
+- github [link](https://github.com/dddonghwa/my-Side-Project)
 
-## 4. LEADERSHIP ACTIVITIES
-### VOLUNTEER CLUB
+## 4. OTHER ACTIVITIES
+### HEAD MENTOR of 2019 SNUSENS WINTER METORING CAMP 
+- 2018.09 ~ 2019.02
 
+### MEMBER of SNU-BUDDY 
+- 20
+
+## 5. ONLINE COURSES
+### 2021 K-DIGITAL TRAINING LIKELION AI SCHOOL 10th
+- 2021.05 ~ 2021.08 Expected
