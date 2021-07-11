@@ -36,10 +36,11 @@ cf. __ANALYSIS of APPLE GAM-SUNG 📱__ 2021.06 ~ ing
 - github [link](https://github.com/dddonghwa/my-Side-Project)
 
 
-## 4. OTHER ACTIVITIES
+## 4. ONLINE COURSES
+__2021 K-DIGITAL TRAINING LIKELION 10th AI SCHOOL__ 2021.05 ~ 2021.08 Expected   
+
+## 5. OTHER ACTIVITIES
 - Head Mentor of 2019 SNUSENS Winter Mentoring Camp 2018.09 ~ 2019.02
 - Won the 3rd prize in Pingpong Competition for University Students 2018.05
 
 
-## 5. ONLINE COURSES
-__2021 K-DIGITAL TRAINING LIKELION 10th AI SCHOOL__ 2021.05 ~ 2021.08 Expected   
