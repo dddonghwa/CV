@@ -41,6 +41,6 @@ __(scientific) AGN MONIORING PROJECT 🌠__ 2018.03~2018.06
 
 ## 5. OTHER ACTIVITIES
 - Head Mentor of 2019 SNUSENS Winter Mentoring Camp 2018.09 ~ 2019.02
-- Won the 3rd prize in Pingpong Competition for University Students 2018.05
+- 3rd prize in Pingpong Competition for University Students 2018.05
 
 
