@@ -27,7 +27,7 @@ __BURGER INDEX 🍔__ 2021.07
 __CORONA VISUALIZATION 📊__ 2021.06
 - Fatal and Recovery Rate of COVID 19 by Continents 
 - *Tools : selenium, bs4, pandas, matplotlib*
-- github [link](https://github.com/likelion-aischool-10-teamproject/corona-visualization)
+- github [link](https://github.com/likelion-aischool-10-teamproject/corona-visualization/tree/main/02.%20fatal-recovery-rate-by-continents)
 
 __(scientific) AGN MONIORING PROJECT 🌠__ 2018.03~2018.06
 - Photometry & Polarimetry of Supermassive Black Hole
