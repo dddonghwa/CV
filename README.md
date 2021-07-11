@@ -40,7 +40,5 @@ __ANALYSIS of APPLE GAM-SUNG 📱__ 2021.06 ~ ing
 - Win the 3rd prize in Pingpong Competition for University Students 2018.05
 
 
-
 ## 5. ONLINE COURSES
-__2021 K-DIGITAL TRAINING LIKELION AI SCHOOL 10th__   
-- 2021.05 ~ 2021.08 Expected
+__2021 K-DIGITAL TRAINING LIKELION AI SCHOOL 10th__ 2021.05 ~ 2021.08 Expected   
