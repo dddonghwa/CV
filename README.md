@@ -19,6 +19,11 @@ __2020 SUMMER UNDERGRADUATE INTERNSHIP in SNUCNS__ 2020.06~2020.08
 
 ## 3. PROJECT
 
+ __ANALYSIS of APPLE GAM-SUNG 📱__ 2021.06 ~ ing
+- Changes of Apple GAM-SUNG from Reviews of IPhone Series
+- *Tools : wordcloud, konlpy*
+- github [link](https://github.com/dddonghwa/my-Side-Project)
+
 __BURGER INDEX 🍔__ 2021.07
 - Does the Burger Index Actually Represents the Development of a City?
 - *Tools : selenium, bs4, requests, pandas, matplotlib, seaborn, plotly*
@@ -33,10 +38,7 @@ __(scientific) AGN MONIORING PROJECT 🌠__ 2018.03~2018.06
 - Photometry & Polarimetry of Supermassive Black Hole
 - github [link](https://github.com/dddonghwa/Astronomical-Observation-and-Lab) / presentation [pdf](https://github.com/dddonghwa/Astronomical-Observation-and-Lab/blob/master/AGN%20monitoring.pdf)
 
-cf. __ANALYSIS of APPLE GAM-SUNG 📱__ 2021.06 ~ ing
-- Changes of Apple GAM-SUNG from Reviews of IPhone Series
-- *Tools : wordcloud, konlpy*
-- github [link](https://github.com/dddonghwa/my-Side-Project)
+
 
 
 ## 4. ONLINE COURSES
