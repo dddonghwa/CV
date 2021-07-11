@@ -15,7 +15,6 @@ __ANBEOP HIGH SCHOOL__
 __2020 SUMMER UNDERGRADUATE INTERNSHIP in SNUCNS__ 2020.06~2020.08
 - Massive Black Hole Lab. (prof.Jong-Hak Woo)
 - Broad Halpha Analysis in SNU AGN Monitoring Project(SAMP)
-- github link
 
 
 ## 3. PROJECT
@@ -23,7 +22,7 @@ __2020 SUMMER UNDERGRADUATE INTERNSHIP in SNUCNS__ 2020.06~2020.08
 __BURGER INDEX 🍔__ 2021.07
 - Does the Burger Index Actually Represents the Development of a City?
 - *Tools : selenium, bs4, requests, pandas, matplotlib, seaborn, plotly*
-- github [link](https://github.com/likelion-aischool-10-teamproject/burger-index)
+- github [link](https://github.com/likelion-aischool-10-teamproject/burger-index) / presentation [pdf](https://github.com/likelion-aischool-10-teamproject/burger-index/blob/main/BurgerIndex_PPT.pdf)
 
 __CORONA VISUALIZATION 📊__ 2021.06
 - Fatal and Recovery Rate of COVID 19 by Continents 
