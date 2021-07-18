@@ -20,6 +20,9 @@ __(scientific) 2020 SUMMER UNDERGRADUATE INTERNSHIP in SNUCNS__ 2020.06~2020.08
 
 ## 3. PROJECT
 
+__Dacon AI Competition - Prediction of Parking Demand 🚙__ 2021.07~ing
+- github [link](https://github.com/dddonghwa/Dacon/tree/main/parking_demand)
+
 __BURGER INDEX 🍔__ 2021.07
 - Does the Burger Index Actually Represents the Development of a City?
 - *Tools : selenium, bs4, requests, pandas, matplotlib, seaborn, plotly*
