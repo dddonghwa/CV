@@ -23,22 +23,19 @@ __BLACK HOLE MASS ESTIMATION__ 2020.06~2020.08
 
 ## 3. PROJECT
 
-__Dacon AI Competition - Prediction of Parking Demand 🚙__ 2021.07~ing
+__Dacon AI Competition - Prediction of Parking Demand 🚙__ 2021.07
 - github [link](https://github.com/dddonghwa/Dacon/tree/main/parking_demand)
 
 __BURGER INDEX 🍔__ 2021.07
 - Does the Burger Index Actually Represents the Development of a City?
-- *Tools : selenium, bs4, requests, pandas, matplotlib, seaborn, plotly*
 - github [link](https://github.com/likelion-aischool-10-teamproject/burger-index) / presentation [pdf](https://github.com/likelion-aischool-10-teamproject/burger-index/blob/main/BurgerIndex_PPT.pdf)
 
 __CORONA VISUALIZATION 📊__ 2021.06
 - Fatal and Recovery Rate of COVID 19 by Continents 
-- *Tools : selenium, bs4, pandas, matplotlib*
 - github [link](https://github.com/likelion-aischool-10-teamproject/corona-visualization/tree/main/02.%20fatal-recovery-rate-by-continents)
 
 __AGN MONIORING PROJECT 🌠__ 2018.03~2018.06
 - Photometry & Polarimetry of Supermassive Black Hole
-- *Tools : scipy, astropy*
 - github [link](https://github.com/dddonghwa/Astronomical-Observation-and-Lab) / presentation [pdf](https://github.com/dddonghwa/Astronomical-Observation-and-Lab/blob/master/AGN%20monitoring.pdf)
 
 
